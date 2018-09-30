@@ -16,7 +16,7 @@ def assign_rooms(speakers)
   # rooms = [1, 2, 3, 4, 5, 6, 7]
   
   speakers.each_with_index do |speaker, room|
-    room+=1
+      room+=1
       puts "Hello #{speaker}! you are room #{room}"
   end
 end 
