@@ -8,4 +8,4 @@ def batch_badge_creator(names)
   end
 end
 
-names = []
+names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
