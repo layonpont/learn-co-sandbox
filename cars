@@ -1,0 +1,9 @@
+def my_favorite_cars(cars)
+  cars.each do |car|
+    puts car
+  end
+end 
+
+my_cars ["Rari", "Lambo", "Benz"]
+
+my_favorite_cars(my_favorite_cars)
