@@ -7,3 +7,5 @@ def batch_badge_creator(names)
     puts names
   end
 end
+
+arra
