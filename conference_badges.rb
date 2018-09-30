@@ -1,3 +1,4 @@
-def badge_make
+def badge_make(name)
+  puts "Hello"
 
 end 
