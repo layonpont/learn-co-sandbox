@@ -12,4 +12,4 @@ end
 
 # batch_badge_creator(names)
 
-def assign 
+def assign_rooms
