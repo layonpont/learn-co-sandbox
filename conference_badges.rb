@@ -14,7 +14,7 @@ names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 def assign_rooms(speakers)
   speakers.each do |speaker|
-    puts "Hello #{speakers}!"
+    puts "Hello #{speaker}!"
   end
 end 
 
