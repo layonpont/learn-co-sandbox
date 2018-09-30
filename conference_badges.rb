@@ -17,3 +17,5 @@ def assign_rooms(speakers)
     puts "Hello #{speakers}!"
   end
 end 
+
+assign_rooms(names)
