@@ -8,12 +8,12 @@ def batch_badge_creator(names)
   end
 end
 
-# names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 # batch_badge_creator(names)
 
 def assign_rooms(speakers)
   speakers.each do |speaker|
-    puts "Hello #{speakers}!"
+    puts "Hello #{speakers}"
   end
 end 
