@@ -8,6 +8,6 @@ def batch_badge_creator(names)
   end
 end
 
-names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+# names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
-batch_badge_creator(names)
+# batch_badge_creator(names)
