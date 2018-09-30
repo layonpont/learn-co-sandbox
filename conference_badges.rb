@@ -29,4 +29,4 @@ def printer
   
 end
 
-printer
+printer()
