@@ -13,4 +13,5 @@ end
 # batch_badge_creator(names)
 
 def assign_rooms(speakers, rooms)
+  speakers.each
 end 
