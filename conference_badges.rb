@@ -21,4 +21,4 @@ def assign_rooms(speakers)
   end
 end 
 
-assign_rooms(names)
+# assign_rooms(names)
